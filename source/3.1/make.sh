@@ -1,0 +1,1 @@
+g++ modAlphaCipher.cpp unit.cpp -lUnitTest++ -o unit
